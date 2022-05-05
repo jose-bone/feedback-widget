@@ -10,8 +10,8 @@ module.exports = {
       },
       borderRadius: {
         md: "4px",
+      },
     },
-  },
   },
   plugins: [require("@tailwindcss/forms"), require("tailwind-scrollbar")],
 };

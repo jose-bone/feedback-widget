@@ -46,7 +46,11 @@ export function WidgetForm() {
         <CloseButton />
       </header>
 
-      {!feedbackType ? <FeedbackTypeStep /> : <p>Hello World!</p>}
+      {!feedbackType ? (
+        <FeedbackTypeStep onFeedbackTypeChanged={setFeedbackType} />
+      ) : (
+        <p>Hello World!</p>
+      )}
 
       <footer className="text-xs text-neutral-400">
         Feito com 💜 pelo{" "}

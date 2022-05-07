@@ -47,13 +47,13 @@
 
 ## :dart: Sobre
 
-Describe your project
+Interface de um widget para enviar comentários de feedbacks
 
 ## :sparkles: Funcionalidades
 
-:heavy_check_mark: Envio de feedbacks
-:heavy_check_mark: Screenshot com **html2canvas**
-:heavy_check_mark: Feature 3;
+- :heavy_check_mark: Envio de feedbacks
+- :heavy_check_mark: Screenshot com **html2canvas**
+- :heavy_check_mark: Uso do **MailTrap** para simular envio de e-mails com os feedbacks
 
 ## :rocket: Tecnologias
 

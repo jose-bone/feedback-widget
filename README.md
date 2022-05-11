@@ -61,6 +61,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev)
 - [MailTrap](https://mailtrap.io/)
@@ -94,7 +96,7 @@ $ yarn start
 
 Acesse a API: http://localhost:3333/
 
-### 💻 Rode o Project Web
+### 💻 Rode o Projeto Web
 
 ```bash
 # Vá para a pasta web
@@ -109,7 +111,7 @@ $ yarn start
 
 Acesse: http://localhost:3000/ para ver o resultado.
 
-<!-- ### 📱 Run Mobile Project
+### 📱 Rode o Projeto Mobile
 
 Para rodar o projeto mobile você precisa de um celular com o [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instalado ou um emulador android/ios.
 
@@ -124,7 +126,7 @@ $ yarn install
 $ yarn start
 ```
 
-Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador. -->
+Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
 
 ## 🐛 Problemas
 

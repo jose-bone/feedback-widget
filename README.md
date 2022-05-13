@@ -93,7 +93,7 @@ $ cd feedback-widget/server
 $ yarn install
 
 # Rode a aplicação
-$ yarn start
+$ yarn dev
 ```
 
 Acesse a API: http://localhost:3333/
@@ -108,7 +108,7 @@ $ cd feedback-widget/web
 $ yarn install
 
 # Rode a aplicação
-$ yarn start
+$ yarn dev
 ```
 
 Acesse: http://localhost:3000/ para ver o resultado.

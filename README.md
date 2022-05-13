@@ -9,8 +9,6 @@
 
 </div>
 
-<h1 align="center">Feedback Widget</h1>
-
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/jose-bone/feedback-widget?color=8257E6&labelColor=000000">
 

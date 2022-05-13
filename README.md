@@ -1,3 +1,5 @@
+<h1 align="center">Feedback Widget</h1>
+
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Preview do Feedback Widget" />
 

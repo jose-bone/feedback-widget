@@ -93,6 +93,8 @@ $ cd server
 # Instale as dependências
 $ yarn install
 
+# Faça uma copia do arquivo `.env.example` para `.env` e informe suas credenciais
+
 # Crie o banco de dados via migrate
 $ npx prisma migrate dev
 
@@ -110,6 +112,8 @@ $ cd web
 
 # Instale as dependências
 $ yarn install
+
+# Faça uma copia do arquivo `.env.example` para `.env` e informe suas credenciais
 
 # Rode a aplicação
 $ yarn dev

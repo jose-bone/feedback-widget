@@ -25,7 +25,7 @@
   <img alt="Github stars" src="https://img.shields.io/github/stars/jose-bone/feedback-widget?color=8257E6&labelColor=000000" />
 </p>
 
-<!-- Status -->
+Status
 
 <h4 align="center">
 	🚧  Feedback Widget 🚀 Under construction...  🚧
@@ -79,16 +79,22 @@ Antes de iniciar :checkered_flag:, você precisa ter instalado o [Git](https://g
 ```bash
 # Clone o Repositório
 $ git clone https://github.com/jose-bone/feedback-widget.git
+
+# Entre na pasta
+$ cd feedback-widget
 ```
 
 ### 📦 Rode o Servidor
 
 ```bash
 # Vá para a pasta do servidor
-$ cd feedback-widget/server
+$ cd server
 
 # Instale as dependências
 $ yarn install
+
+# Crie o banco de dados via migrate
+$ npx prisma migrate dev
 
 # Rode a aplicação
 $ yarn dev
@@ -100,7 +106,7 @@ Acesse a API: http://localhost:3333/
 
 ```bash
 # Vá para a pasta web
-$ cd feedback-widget/web
+$ cd web
 
 # Instale as dependências
 $ yarn install
@@ -117,7 +123,7 @@ Para rodar o projeto mobile você precisa de um celular com o [expo](https://pla
 
 ```bash
 # Vá para a pasta mobile
-$ cd feedback-widget/mobile
+$ cd mobile
 
 # Instale as dependências
 $ yarn install
